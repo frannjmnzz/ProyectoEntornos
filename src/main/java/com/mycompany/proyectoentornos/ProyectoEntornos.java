@@ -13,5 +13,6 @@ public class ProyectoEntornos {
     public static void main(String[] args) 
     {
      System.out.println("Esto sale en pantalla\n");
+     System.out.println("Esto sale en pantalla\n");
     }
 }
